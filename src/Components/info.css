@@ -1,0 +1,30 @@
+#contact{
+    color: red;
+    font-style:italic;
+}
+#skills{
+    color: red;
+}
+#experience {
+    color: red;
+}
+#p_object {
+    color: whitesmoke;
+    font-size: largerer;
+}
+#p_contact {
+    color:black;
+    font-size: large;
+}
+#p_skills {
+    color: black;
+    font-size: large;
+}
+#p_experience {
+    color:darkorange;
+    font-size: medium;
+}
+
+#p {
+    color: black;
+}

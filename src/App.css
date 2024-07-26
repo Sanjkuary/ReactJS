@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  /* background-color: #282c34; */
+  color: white;
+}
+body{
+  background-color: #99D98C;
+  /* background-image: url("./Images/david.jpg"); */
+}
+p {
+  color: black;
+}
+#head {
+  color: brown;
+  font-size: larger;
+  font-style: italic;
+}
